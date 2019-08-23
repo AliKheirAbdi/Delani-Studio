@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+
 html{
   scroll-behavior: smooth;
 }
@@ -47,9 +47,23 @@ html{
     transform: translateY(-45px);
   }
 }
+
+.container-about{
+  padding-bottom: 40px;
+  padding-top: 40px;
+
+}
 .services{
   background-image: url(../assets/backgrounds/s_image.jpg);
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
+}
+
+.container-wwd{
+      padding-left: 250px;
+}
+
+.design-image{
+  
 }
