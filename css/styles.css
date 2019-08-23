@@ -60,14 +60,24 @@ html{
   color: white;
 }
 
-.container-wwd{
-      padding-left: 250px;
-      padding-top: 60px;
-      
+.wwd{
+  font-family: 'Quattrocento', serif;
+  text-align: center;
+  padding-top: 40px;
+  font-family: 'Gabriela', serif;
+}
+.wwd .headings{
+  padding-bottom: 38px;
 }
 
 .col-md-4 {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  
+}
+
+@media screen and (max-width: 600px) {
+  .col-md-4 {
+    width: 100%;
+  }
 }
