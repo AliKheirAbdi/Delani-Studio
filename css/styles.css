@@ -51,6 +51,8 @@ html{
 .container-about{
   padding-bottom: 40px;
   padding-top: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
 
 }
 .services{
@@ -61,7 +63,6 @@ html{
 }
 
 .wwd{
-  font-family: 'Quattrocento', serif;
   text-align: center;
   padding-top: 40px;
   font-family: 'Gabriela', serif;
@@ -80,4 +81,14 @@ html{
   .col-md-4 {
     width: 100%;
   }
+}
+
+.pfl{
+  text-align: center;
+  padding-top: 80px;
+  font-family: 'Gabriela', serif;
+}
+
+.headings .pfl{
+  padding-bottom: 38px;
 }
