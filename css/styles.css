@@ -47,3 +47,7 @@ html{
     transform: translateY(-45px);
   }
 }
+.services{
+  background-image: url(../assets/backgrounds/s_image.jpg);
+  
+}
