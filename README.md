@@ -42,7 +42,7 @@ mail chimp API does not provide a popup upon successful contact form submission.
 If you have any questions or contributions, please email me at akheirali(@)gmail.com
 
 ## License
-MIT License
+[MIT License](https://github.com/AliKheirAbdi/Delani-Studio/blob/master/LICENSE)
 Copyright (c) 2019 
 
 
