@@ -1,14 +1,15 @@
+
 $(document).ready(function(){
-    $("#peek").click(function(){
-      $("#peek").hide();
-      $("#design").show();
+    $("#design-image").click(function(){
+      $("#design-image").hide();
+      $("#desc1").show();
     });
-    $("#design").click(function(){
-      $("#design").slideUp();
-      $("#peek").slideDown();
+    $("#desc1").click(function(){
+      $("#desc1").hide();
+      $("#design-image").show();
     });
   });
-  
+
 // jQuery hover on portfolio icons
 
 $(document).ready(function(){

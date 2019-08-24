@@ -86,7 +86,7 @@ html{
   }
 }
 
-
+.initiallyHidden { display: none; }
 
 /* portfolio styling */
 .pfl{
