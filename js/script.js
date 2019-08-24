@@ -1,10 +1,22 @@
 $(document).ready(function(){
-    $("#development-image").click(function(){
-      $("#development-image").slideDown('1500').hide('1000');
-      $("#development").show('1500');
+    $("#toggle1").click(function(){
+       $("#toggle1").hide(); 
+        $("#hide1").show();
+});
+});
+$(document).ready(function(){
+    $("#hide1").click(function(){
+        $("#toggle1").show();
+       $("#hide1").hide(); 
+});
+});
+
+// jQuery hover on portfolio icons
+
+$(document).ready(function(){
+    $("#work1").hover(function(){
+        $("#overlay1").show();
+    }).mouseleave(function(){
+        $("#overlay1").hide();
     });
-    $("#development").click(function(){
-      $("#development").slideUp('1500');
-      $("#development-image").slideDown('1500');
-    });
-  });
+});

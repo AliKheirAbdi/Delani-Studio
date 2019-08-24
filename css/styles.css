@@ -1,4 +1,4 @@
-
+/* landing page styling */
 html{
   scroll-behavior: smooth;
 }
@@ -26,11 +26,13 @@ html{
   width: 70px;
   height: 70px;;
 }
+
+/* mouse click styling and animation*/
 #mouse-click{
   padding-top : 22px;
   margin-top: 10%;
   padding-bottom: 30px; 
-  /* animation-iteration-count: infinite; */
+
 }
 #mouse-click {
   animation: bounce 2s infinite;
@@ -47,7 +49,7 @@ html{
     transform: translateY(-45px);
   }
 }
-
+/* about us styling */
 .container-about{
   padding-bottom: 40px;
   padding-top: 40px;
@@ -62,6 +64,7 @@ html{
   color: white;
 }
 
+/* what we do styling */
 .wwd{
   text-align: center;
   padding-top: 40px;
@@ -83,6 +86,9 @@ html{
   }
 }
 
+
+
+/* portfolio styling */
 .pfl{
   text-align: center;
   padding-top: 80px;
@@ -111,7 +117,33 @@ html{
   clear: both;
 }
 
+/* style on the portfolio icons */
 .col-md-3 img{
-  max-width: 100%;
-  max-height: 100%;
+  height:200px;
+  width: 200px;
+  padding-bottom: 20px;
+  }
+.col-md-3{
+  padding-left:4%;
+  padding-right:20%;
+  }
+.icons{
+  padding-top:20px;
+  text-align: center;
 }
+
+
+/* Portfolio icons hover styling */
+#overlay1{
+  font-family: 'Anton', sans-serif;
+  display:none;
+  color: blue;
+  background-color: white;
+  opacity: 0.5;
+  position: absolute;
+  top:0px;
+  left:42px;
+  width:200px;
+  height:200px;
+ padding: 30%;
+ }
