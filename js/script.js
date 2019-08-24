@@ -28,3 +28,27 @@ $(document).ready(function(){
         $("#overlay2").hide();
     });
 });
+
+$(document).ready(function(){
+    $("#work3").hover(function(){
+        $("#overlay3").show();
+    }).mouseleave(function(){
+        $("#overlay3").hide();
+    });
+});
+
+$(document).ready(function(){
+    $("#work4").hover(function(){
+        $("#overlay4").show();
+    }).mouseleave(function(){
+        $("#overlay4").hide();
+    });
+});
+
+$(document).ready(function(){
+    $("#work5").hover(function(){
+        $("#overlay5").show();
+    }).mouseleave(function(){
+        $("#overlay5").hide();
+    });
+});
