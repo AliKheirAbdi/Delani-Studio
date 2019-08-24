@@ -15,7 +15,7 @@ https://alikheirabdi.github.io/Delani-Studio/
 ## Installation / Setup instruction
 1. Open Terminal
 
-2. git clone https://alikheirabdi.github.io/Delani-Studio.git
+2. git clone https://github.com/AliKheirAbdi/Delani-Studio.git
 
 3. cd Delani-Studio
 
