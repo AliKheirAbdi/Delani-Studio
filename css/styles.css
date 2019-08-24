@@ -243,6 +243,19 @@ html{
   left:42px;
   width:200px;
   height:200px;
- padding: 30%;
+  padding: 30%;
  }
+
+ .contact{
+   background-image: url(../assets/backgrounds/c_image.jpg);
+   padding-top: 60px;
+   padding-bottom: 60px;
+   color: white;
+   background-size: cover;
+ }
+
+ .mailchimp{
+   background-color: transparent;
+ }
+
  
