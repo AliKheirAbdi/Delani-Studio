@@ -28,7 +28,7 @@ https://alikheirabdi.github.io/Delani-Studio/
 * [jQuery](https://jquery.com/)
 * [Markdown](https://www.markdownguide.org/)
 
-## BDD
+## BDD 
 | Behaviour        | Input           | Output                     |
 |------------------|-----------------|----------------------------|
 | Enter Your Name  | John Doe        |                            |  
@@ -37,7 +37,6 @@ https://alikheirabdi.github.io/Delani-Studio/
 
 ## Known Bugs
 1. mail chimp API does not provide a popup upon successful contact form submission.
-2. Favicon may not display in gh-page
 
 ## Contact Information
 If you have any questions or contributions, please email me at akheirali(@)gmail.com
