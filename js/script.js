@@ -1,16 +1,14 @@
 $(document).ready(function(){
-    $("#toggle1").click(function(){
-       $("#toggle1").hide(); 
-        $("#hide1").show();
-});
-});
-$(document).ready(function(){
-    $("#hide1").click(function(){
-        $("#toggle1").show();
-       $("#hide1").hide(); 
-});
-});
-
+    $("#peek").click(function(){
+      $("#peek").hide();
+      $("#design").show();
+    });
+    $("#design").click(function(){
+      $("#design").slideUp();
+      $("#peek").slideDown();
+    });
+  });
+  
 // jQuery hover on portfolio icons
 
 $(document).ready(function(){
@@ -76,3 +74,7 @@ $(document).ready(function(){
         $("#overlay8").hide();
     });
 });
+
+
+
+
