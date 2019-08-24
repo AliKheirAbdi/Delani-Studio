@@ -203,4 +203,46 @@ html{
   height:200px;
  padding: 30%;
  }
+
+ #overlay6{
+  font-family: 'Anton', sans-serif;
+  display:none;
+  color: blue;
+  background-color: white;
+  opacity: 0.5;
+  position: absolute;
+  top:0px;
+  left:42px;
+  width:200px;
+  height:200px;
+ padding: 30%;
+ }
+
+ #overlay7{
+  font-family: 'Anton', sans-serif;
+  display:none;
+  color: blue;
+  background-color: white;
+  opacity: 0.5;
+  position: absolute;
+  top:0px;
+  left:42px;
+  width:200px;
+  height:200px;
+ padding: 30%;
+ }
+
+ #overlay8{
+  font-family: 'Anton', sans-serif;
+  display:none;
+  color: blue;
+  background-color: white;
+  opacity: 0.5;
+  position: absolute;
+  top:0px;
+  left:42px;
+  width:200px;
+  height:200px;
+ padding: 30%;
+ }
  

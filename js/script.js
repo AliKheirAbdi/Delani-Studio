@@ -52,3 +52,27 @@ $(document).ready(function(){
         $("#overlay5").hide();
     });
 });
+
+$(document).ready(function(){
+    $("#work6").hover(function(){
+        $("#overlay6").show();
+    }).mouseleave(function(){
+        $("#overlay6").hide();
+    });
+});
+
+$(document).ready(function(){
+    $("#work7").hover(function(){
+        $("#overlay7").show();
+    }).mouseleave(function(){
+        $("#overlay7").hide();
+    });
+});
+
+$(document).ready(function(){
+    $("#work8").hover(function(){
+        $("#overlay8").show();
+    }).mouseleave(function(){
+        $("#overlay8").hide();
+    });
+});
