@@ -20,3 +20,11 @@ $(document).ready(function(){
         $("#overlay1").hide();
     });
 });
+
+$(document).ready(function(){
+    $("#work2").hover(function(){
+        $("#overlay2").show();
+    }).mouseleave(function(){
+        $("#overlay2").hide();
+    });
+});
