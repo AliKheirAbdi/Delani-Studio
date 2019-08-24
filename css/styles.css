@@ -135,9 +135,9 @@ html{
 
 /* Portfolio icons hover styling */
 #overlay1{
-  font-family: 'Anton', sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   display:none;
-  color: blue;
+  color: red;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -151,7 +151,7 @@ html{
  #overlay2{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: blue;
+  color: red;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -165,7 +165,7 @@ html{
  #overlay3{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: blue;
+  color: red;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -179,7 +179,7 @@ html{
  #overlay4{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: blue;
+  color: red;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -193,7 +193,7 @@ html{
  #overlay5{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: blue;
+  color: red;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -207,7 +207,7 @@ html{
  #overlay6{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: blue;
+  color: red;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -221,7 +221,7 @@ html{
  #overlay7{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: blue;
+  color: red;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -235,7 +235,7 @@ html{
  #overlay8{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: blue;
+  color: red;
   background-color: white;
   opacity: 0.5;
   position: absolute;
