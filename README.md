@@ -4,7 +4,7 @@ A website for a Delani which is a design studio who specialize in design, develo
 ## Author 
 [Ali Kheir](https://github.com/AliKheirAbdi) 
 ## Description
-This project is a website for Delani studio.It provides details about the organizations and showcases it's portfolio.
+This project is a website for Delani studio.It provides details about the services the organization offers and showcases it's portfolio.
 
 ## Screenshot
 ![alt text](https://github.com/AliKheirAbdi/Delani-Studio/blob/master/screenshot.jpg)
