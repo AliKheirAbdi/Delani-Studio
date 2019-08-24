@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
     $("#design-image").click(function(){
       $("#design-image").hide();
@@ -7,6 +6,28 @@ $(document).ready(function(){
     $("#desc1").click(function(){
       $("#desc1").hide();
       $("#design-image").show();
+    });
+  });
+
+$(document).ready(function(){
+    $("#dev-image").click(function(){
+      $("#dev-image").hide();
+      $("#desc2").show();
+    });
+    $("#desc2").click(function(){
+      $("#desc2").hide();
+      $("#dev-image").show();
+    });
+  });
+
+  $(document).ready(function(){
+    $("#pro-image").click(function(){
+      $("#pro-image").hide();
+      $("#desc3").show();
+    });
+    $("#desc3").click(function(){
+      $("#desc3").hide();
+      $("#pro-image").show();
     });
   });
 
