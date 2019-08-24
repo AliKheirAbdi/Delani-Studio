@@ -1,5 +1,5 @@
 # Delani-Studio
-A website for a Delani which is a design studio who specialize in design, development and product management.
+A website for Delani which is a design studio who specialize in design, development and product management.
 
 ## Author 
 [Ali Kheir](https://github.com/AliKheirAbdi) 
@@ -36,7 +36,8 @@ https://alikheirabdi.github.io/Delani-Studio/
 | Click Submit     |                 | Thank you for subscribing! |
 
 ## Known Bugs
-mail chimp API does not provide a popup upon successful contact form submission.
+1. mail chimp API does not provide a popup upon successful contact form submission.
+2. Favicon may not display in gh-page
 
 ## Contact Information
 If you have any questions or contributions, please email me at akheirali(@)gmail.com
