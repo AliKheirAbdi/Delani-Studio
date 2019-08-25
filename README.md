@@ -1,5 +1,4 @@
 # Delani-Studio
-A website for a Delani which is a design studio who specialize in design, development and product management.
 
 ## Author 
 [Ali Kheir](https://github.com/AliKheirAbdi) 
