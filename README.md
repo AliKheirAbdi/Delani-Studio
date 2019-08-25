@@ -27,7 +27,7 @@ https://alikheirabdi.github.io/Delani-Studio/
 * [jQuery](https://jquery.com/)
 * [Markdown](https://www.markdownguide.org/)
 
-## BDD
+## BDD on Form
 | Behaviour        | Input           | Output                     |
 |------------------|-----------------|----------------------------|
 | Enter Your Name  | John Doe        |                            |  
