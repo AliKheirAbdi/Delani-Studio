@@ -35,7 +35,8 @@ https://alikheirabdi.github.io/Delani-Studio/
 | Click Submit     |                 | Thank you for subscribing! |
 
 ## Known Bugs
-mail chimp API does not provide a popup upon successful contact form submission.
+1. mail chimp API does not provide a popup upon successful contact form submission.
+2. Portfolio section not fully responsive on mobile phone.
 
 ## Contact Information
 If you have any questions or contributions, please email me at akheirali(@)gmail.com
