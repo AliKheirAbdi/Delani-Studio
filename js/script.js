@@ -98,5 +98,29 @@ $(document).ready(function(){
 });
 
 
-
+// /*  Mailchimp Subscribe  */ API TESTING
+$('#subscribe-form').bind('submit', function(event) {
+    event.preventDefault(); //prevent page refresh
+    var name  = $('[name="client_name"]').val();//get name field value
+    var email = $('[name="client_email"]').val();//get email field value
+    var url =   "https://us18.api.mailchimp.com/2.0/lists/subscribe.json?"
+               +  "apikey=5e91b44bb1073b136f5bee7020f1c62e-us18&id=36ad82c391"//API KEY  
+               +  "&email[email]=" + email //email address registering
+               +  "&merge_vars[FNAME]=" + name //name we're registering
+               +  "&merge_vars[LNAME]=" //last name-- feel free to add this field
+               +  "&double_optin=false" //add to list even if email is invalid
+               +  "&send_welcome=false"; //send an email notification to new subscriber
+   $.ajax({
+         type: "POST",
+         url: url,
+         dataType: 'json',
+         success: function(data) {
+           $('#subscribe-form').html("Thank you for contacting Us!");
+         },
+         error: function(jqXHR, textStatus, errorThrown) {
+           alert(errorThrown);
+         }
+     });//EO ajax
+ });//EO click bind
+ 
 
