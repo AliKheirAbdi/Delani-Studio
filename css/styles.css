@@ -2,7 +2,6 @@
 html{
   scroll-behavior: smooth;
 }
-
 .landing{
   background-image: url('../assets/backgrounds/h_img.jpg');
   background-position: center center;
@@ -136,9 +135,9 @@ html{
 
 /* Portfolio icons hover styling */
 #overlay1{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Anton', sans-serif;
   display:none;
-  color: red;
+  color: blue;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -152,7 +151,7 @@ html{
  #overlay2{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: red;
+  color: blue;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -166,7 +165,7 @@ html{
  #overlay3{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: red;
+  color: blue;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -180,7 +179,7 @@ html{
  #overlay4{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: red;
+  color: blue;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -194,7 +193,7 @@ html{
  #overlay5{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: red;
+  color: blue;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -208,7 +207,7 @@ html{
  #overlay6{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: red;
+  color: blue;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -222,7 +221,7 @@ html{
  #overlay7{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: red;
+  color: blue;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -236,7 +235,7 @@ html{
  #overlay8{
   font-family: 'Anton', sans-serif;
   display:none;
-  color: red;
+  color: blue;
   background-color: white;
   opacity: 0.5;
   position: absolute;
@@ -258,21 +257,22 @@ html{
  .mailchimp{
    background-color: transparent;
  }
+ 
+ .name{
+   width: 700px;
+   height: 40px;
+ }
 
-.name{
-width: 700px;
-height: 40px;
-}
-
-.email{
-width: 700px;
-height: 40px;
+ .email{
+  width: 700px;
+  height: 40px;
 }
 
 .msg{
-width: 700px;
-height: 200px;
+  width: 700px;
+  height: 200px;
 }
 
-
- 
+.container4{
+  padding-left: 400px;
+}
