@@ -258,21 +258,7 @@ html{
    background-color: transparent;
  }
  
- .name{
-   width: 700px;
-   height: 40px;
- }
-
- .email{
-  width: 700px;
-  height: 40px;
-}
-
-.msg{
-  width: 700px;
-  height: 200px;
-}
-
 .container4{
-  padding-left: 400px;
+  width: 1000px;
+  padding-left: 300px;
 }
