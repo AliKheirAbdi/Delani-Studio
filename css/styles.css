@@ -271,4 +271,13 @@ html{
 .msg{
   width: 700px;
   height: 200px;
+  padding-right: 30px;
+}
+
+.container4{
+  padding-left: 400px;
+}
+
+.subscribe-form{
+  
 }
